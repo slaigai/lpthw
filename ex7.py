@@ -1,0 +1,28 @@
+print("Mary had a little lamb.")
+print("Its fleece was white as {}.".format('snow'))
+print("And everywhere that Mary went.")
+# Multiplication operator is used to repeat strings
+print("." * 10)
+
+end1 = "C"
+end2 = "h"
+end3 = "e"
+end4 = "e"
+end5 = "s"
+end6 = "e"
+end7 = "B"
+end8 = "u"
+end9 = "r"
+end10 = "g"
+end11 = "e"
+end12 = "r"
+
+# watch end = ' ' at the end. try removing it to see what happens
+print(end1 + end2 + end3 + end4 + end5 + end6, end=' ') # ends the printed string with a space instead of a newline (
+# default)
+print(end7 + end8 + end9 + end10 + end11 + end12) # now prints the default newline
+
+
+# Study Drills
+
+# I'll begin doing only the drills I find useful
